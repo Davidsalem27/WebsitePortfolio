@@ -1,0 +1,9 @@
+@media screen and (max-width: 1200px) {
+    #desktop-nav{
+        display: none; /*when screen smaller than 1200 the desktop nav will disappear*/
+    }
+    #hamburger-nav{
+        display: flex;
+    }
+    
+}
