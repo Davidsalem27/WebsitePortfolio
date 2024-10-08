@@ -289,7 +289,7 @@ section {
   .about-text-container {
     flex: 1;
     margin-left: 1rem; /* Adjust the value to move it further right */
-    font-size: 40re;
+    font-size: 40ren;
 }
   .about-pic {
     border-radius: 2rem;
